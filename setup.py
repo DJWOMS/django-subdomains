@@ -22,8 +22,8 @@ tests_require = install_requires + ['mock']
 setup(name='django-subdomains',
     version=version,
     url='http://github.com/tkaemming/django-subdomains/',
-    author='ted kaemming',
-    author_email='ted@kaemming.com',
+    author='ted kaemming, DJWOMS - Omelchenko Michael',
+    author_email='ted@kaemming.com, socanime@gmail.com',
     description="Subdomain tools for the Django framework, including "
         "subdomain-based URL routing.",
     packages=find_packages(),
